@@ -5,6 +5,7 @@
 
 Type true/false in the provided [ ].
 
+
 a) [FALSE] `<div><span>hello</div></span>`
 
 <div>
@@ -12,6 +13,7 @@ a) [FALSE] `<div><span>hello</div></span>`
 <div>
 
 b) [FALSE]
+
 
 ```html
 <ul>
@@ -48,6 +50,11 @@ c) [TRUE and FALSE it works but doesn't make sense] `<ul></ul><img/><ol><li>one<
 
 ## Q2 - What is a screenreader and why should we care about them?
 A screenreader is an assistive technology that reads websites aloud. It uses the tags to interpret the site.
+
+etc et cet cet 
+
+
+
 
 _Feel free to use the powers of Google here, but please provide link(s) to your source(s)_
 
